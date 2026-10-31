@@ -1,0 +1,8 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: system-ui, -apple-system, sans-serif; background: #f5f6fa; color: #2c3e50; }
+button { cursor: pointer; padding: 0.5rem 1rem; border: none; border-radius: 4px; background: #3498db; color: white; }
+button:hover { background: #2980b9; }
+input, select { padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; }
+table { background: white; }
+th { background: #34495e; color: white; text-align: left; }
+tr:nth-child(even) { background: #f9f9f9; }
